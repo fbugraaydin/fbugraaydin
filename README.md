@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
-**fbugraaydin/fbugraaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Buğra, I am Software Engineer. I really love learning and coding.
+
+When something comes to my mind, I just develop it. I think, it is a freedom 😄
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
